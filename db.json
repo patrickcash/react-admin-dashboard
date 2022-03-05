@@ -1,0 +1,71 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Post One",
+            "body": "This is the post body",
+            "publishedAt": "03-01-2022"
+        },
+        {
+            "id": "2",
+            "title": "Post Two",
+            "body": "This is the post body",
+            "publishedAt": "03-02-2022"
+        },
+        {
+            "id": "3",
+            "title": "Post Three",
+            "body": "This is the post body",
+            "publishedAt": "03-03-2022"
+        },
+        {
+            "id": "4",
+            "title": "Post Four",
+            "body": "This is the post body",
+            "publishedAt": "03-04-2022"
+        },
+        {
+            "id": "5",
+            "title": "Post Five",
+            "body": "This is the post body",
+            "publishedAt": "03-05-2022"
+        },
+        {
+            "id": "6",
+            "title": "Post Six",
+            "body": "This is the post body",
+            "publishedAt": "03-06-2022"
+        },
+        {
+            "id": "7",
+            "title": "Post Seven",
+            "body": "This is the post body",
+            "publishedAt": "03-07-2022"
+        },
+        {
+            "id": "8",
+            "title": "Post Eight",
+            "body": "This is the post body",
+            "publishedAt": "03-08-2022"
+        },
+        {
+            "id": "9",
+            "title": "Post Nine",
+            "body": "This is the post body",
+            "publishedAt": "03-09-2022"
+        },
+        {
+            "id": "10",
+            "title": "Post Ten",
+            "body": "This is the post body",
+            "publishedAt": "03-10-2022"
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "name": "John",
+            "email": "john@gmail.com"
+        }
+    ]  
+}

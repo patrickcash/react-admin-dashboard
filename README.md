@@ -1,2 +1,3 @@
-# react-admin-dashboard
-Dashboard made with react-admin package
+# React Admin Dashboard
+
+Dashboard made with react-admin framework
